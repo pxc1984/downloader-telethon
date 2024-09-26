@@ -6,7 +6,7 @@ Don't really know what his bot is..
 
 1. Clone it to your pc
 ```
-git clone https://github.com/pxc1984/downloader-telethon
+git clone https://github.com/pxc1984/downloader-telethon.git
 cd downloader-telethon
 ```
 
