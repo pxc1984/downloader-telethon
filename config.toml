@@ -1,0 +1,16 @@
+[app]
+client_name = "downloader"
+
+[downloader]
+codeword="this"
+path="."
+
+[logging]
+file = "downloaded.log"
+format = "%(asctime)s - %(levelname)s - %(message)s"
+
+[telegram]
+api_id = 00000000
+api_hash = "0000000000000000"
+phone_number = "+000000000000"
+channel_id = []  # empty means check in all channels
